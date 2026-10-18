@@ -1,1 +1,0 @@
-Izvade rāda šī datora nosaukumu, operētājsistēmas nosaukumu un būvējumu, PowerShell versiju, pašreizējo datumu/laiku un loģisko procesoru skaitu. Pārbaudi, vai vērtības atbilst datoram, kurā skriptu palaidi.
