@@ -1,0 +1,4 @@
+Disks: C, Kopejs izmers: 446.52 GB, Brivas vieta: 86.67 GB
+Disks: D, Kopejs izmers: 1863.02 GB, Brivas vieta: 1279.34 GB
+Disks: F, Kopejs izmers: 232.25 GB, Brivas vieta: 64.78 GB
+Disks: G, Kopejs izmers: 931.51 GB, Brivas vieta: 931.21 GB

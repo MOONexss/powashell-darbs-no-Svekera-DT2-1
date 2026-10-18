@@ -1,0 +1,4 @@
+Procesu skaits: 251
+Aktivie servisi: 114, Aptureti servisi: 182
+Kludu ieraksti (48h): 17
+Brivas vieta diska (GB): 86.67

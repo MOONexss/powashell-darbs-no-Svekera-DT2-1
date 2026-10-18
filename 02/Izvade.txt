@@ -1,0 +1,12 @@
+Nosaukums             ID Atmina MB
+---------             -- ---------
+chrome              9372     246,5
+steamwebhelper     18120     272,5
+chrome              3228     294,8
+chrome              5380     298,2
+Spotify            12376     314,7
+steamwebhelper     11648       328
+Memory Compression  2944     448,1
+chrome             20164     482,3
+Discord            18168     609,3
+chrome             20236       699

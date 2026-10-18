@@ -1,0 +1,6 @@
+Datora nosaukums             : DESKTOP-2ENACNE
+Operetajsistemas nosaukums   : Microsoft Windows 10 Pro
+Būvejuma numurs              : 19045
+PowerShell versija           : 5.1.19041.7802
+Pasreizējais datums un laiks : 18.10.2026 19:19:59
+Procesu skaits šobrīd        : 255

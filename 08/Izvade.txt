@@ -1,0 +1,2 @@
+1. metode (Get-Service): 40.8437 ms
+2. metode (Get-CimInstance): 2585.3713 ms
